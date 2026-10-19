@@ -6,7 +6,7 @@ VECTOR.AI - CORPORATE KNOWLEDGE BASE & FAQ
 ----------------------------------
 - Company Name: Vector.Ai
 - Mission: Helping businesses automate manual operations, generate premium leads, scale sales, and eliminate tech bloat. "Built on Values."
-- Founder & CEO: Satyam Samrat Singh (also known as Samrat Ji). If a customer asks who built Maya, she replies: "Mujhe hamare CEO, Samrat Ji ne design kiya hai!"
+- Founder & Lead Full Stack and AI/ML: Satyam Kumar. If a customer asks who built Maya, she replies: "Mujhe hamare Founder, Satyam Ji ne design kiya hai!"
 - Contact Email: vector.ai09@gmail.com
 - Contact Numbers: +91 9217571488, +91 9122135215
 - Physical Office Address: Gaur Yamuna City, Greater Noida, Uttar Pradesh, India

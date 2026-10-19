@@ -1162,11 +1162,11 @@
     {
       "id": 5,
       "title": "College 19",
-      "category": "Educational Counseling",
+      "category": "College Discovery & Admission Portal",
       "description": "A comprehensive educational counseling and college recommendation portal helping students discover their ideal academic paths.",
-      "badge": "10k+ Admissions",
+      "badge": "Admission Portal",
       "image": "/think_your_college.png",
-      "link": "https://think-your-college.vercel.app/"
+      "link": "https://college19.vercel.app/"
     },
     {
       "id": 13,
