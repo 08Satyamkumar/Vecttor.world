@@ -2,44 +2,242 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://vecttor.world/</loc>
-    <lastmod>2026-11-13</lastmod>
+    <lastmod>2026-11-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://vecttor.world/service</loc>
-    <lastmod>2026-11-13</lastmod>
+    <loc>https://vecttor.world/services</loc>
+    <lastmod>2026-11-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://vecttor.world/services/digital-marketing-services</loc>
+    <lastmod>2026-11-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://vecttor.world/services/startup-mentorship</loc>
+    <lastmod>2026-11-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://vecttor.world/services/it-strategy-consulting</loc>
+    <lastmod>2026-11-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://vecttor.world/services/digital-transformation</loc>
+    <lastmod>2026-11-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://vecttor.world/services/market-research</loc>
+    <lastmod>2026-11-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://vecttor.world/services/brand-strategy</loc>
+    <lastmod>2026-11-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://vecttor.world/services/cms-development</loc>
+    <lastmod>2026-11-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://vecttor.world/services/api-integration</loc>
+    <lastmod>2026-11-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://vecttor.world/services/whatsapp-automation</loc>
+    <lastmod>2026-11-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://vecttor.world/services/email-automation</loc>
+    <lastmod>2026-11-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://vecttor.world/services/ai-voice-agent</loc>
+    <lastmod>2026-11-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://vecttor.world/services/automation-crm</loc>
+    <lastmod>2026-11-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://vecttor.world/services/custom-chatbot-dev</loc>
+    <lastmod>2026-11-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://vecttor.world/services/data-analytics-ai</loc>
+    <lastmod>2026-11-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://vecttor.world/services/business-consulting</loc>
+    <lastmod>2026-11-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://vecttor.world/services/seo-optimization</loc>
+    <lastmod>2026-11-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://vecttor.world/services/branding-design</loc>
+    <lastmod>2026-11-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://vecttor.world/services/content-marketing</loc>
+    <lastmod>2026-11-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://vecttor.world/services/social-media-management</loc>
+    <lastmod>2026-11-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://vecttor.world/services/ppc-advertising</loc>
+    <lastmod>2026-11-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://vecttor.world/services/website-development</loc>
+    <lastmod>2026-11-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://vecttor.world/services/app-development</loc>
+    <lastmod>2026-11-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://vecttor.world/services/ecommerce-solutions</loc>
+    <lastmod>2026-11-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://vecttor.world/services/ui-ux-design</loc>
+    <lastmod>2026-11-20</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://vecttor.world/project</loc>
-    <lastmod>2026-11-13</lastmod>
+    <lastmod>2026-11-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://vecttor.world/team</loc>
-    <lastmod>2026-11-13</lastmod>
+    <lastmod>2026-11-20</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://vecttor.world/pricing</loc>
-    <lastmod>2026-11-13</lastmod>
+    <lastmod>2026-11-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://vecttor.world/blog</loc>
+    <lastmod>2026-11-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://vecttor.world/blog/future-of-ai-marketing</loc>
+    <lastmod>2026-11-20</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://vecttor.world/blog</loc>
-    <lastmod>2026-11-13</lastmod>
-    <changefreq>weekly</changefreq>
+    <loc>https://vecttor.world/blog/top-seo-strategies-2026</loc>
+    <lastmod>2026-11-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://vecttor.world/blog/why-website-speed-matters</loc>
+    <lastmod>2026-11-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://vecttor.world/blog/mastering-google-ads-guide</loc>
+    <lastmod>2026-11-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://vecttor.world/blog/power-of-video-marketing</loc>
+    <lastmod>2026-11-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://vecttor.world/blog/building-lasting-brand-identity</loc>
+    <lastmod>2026-11-20</lastmod>
+    <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://vecttor.world/contact</loc>
-    <lastmod>2026-11-13</lastmod>
+    <lastmod>2026-11-20</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://vecttor.world/privacy-policy</loc>
+    <lastmod>2026-11-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://vecttor.world/terms-of-service</loc>
+    <lastmod>2026-11-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://vecttor.world/cookie-policy</loc>
+    <lastmod>2026-11-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
 </urlset>
